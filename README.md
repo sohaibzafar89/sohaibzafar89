@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include Python, Django and Sqlite. Certified in Azure AI-900 and Kaggle Python, I thrive on solving complex problems through AI. I am driven to achieve excellence in my pursuits and make a positive impact🙂 through my work.
 
-* ✉️  You can contact me at [https://linktr.ee/sohaib.zafar](mailto:https://linktr.ee/sohaib.zafar)
+* ✉️  You can contact me at my socials [https://linktr.ee/sohaib.zafar](mailto:https://linktr.ee/sohaib.zafar)
 * 🧠  I'm learning 𝗔𝗪𝗦 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀 𝗮𝗻𝗱 𝗙𝗮𝘀𝘁𝗔𝗣𝗜.
 * 🤝  I'm open to collaborating on Full Stack / ML Projects.
 * ⚡  Fun Fact: 𝙎𝙩𝙖𝙧𝙩𝙚𝙙 𝙅𝙤𝙪𝙧𝙣𝙚𝙮 𝙬𝙞𝙩𝙝 𝘿𝙖𝙩𝙖 𝙎𝙘𝙞𝙚𝙣𝙘𝙚 𝙗𝙮 𝙛𝙞𝙚𝙡𝙙, 𝙋𝙮𝙩𝙝𝙤𝙣 𝙗𝙮 𝙋𝙖𝙨𝙨𝙞𝙤𝙣
@@ -24,6 +24,12 @@ I'm a software engineer who is passionate about making contributing to open-sour
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/sohaibzafar89"><img src="https://github-readme-stats.vercel.app/api?username=sohaibzafar89&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="sohaibzafar89's GitHub stats" /></a>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <a href="http://www.github.com/sohaibzafar89">
+        <img src="https://github-readme-stats.vercel.app/api?username=sohaibzafar89&show_icons=true&count_private=true&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="sohaibzafar89's GitHub stats" />
+    </a>
 
-<a href="https://github.com/sohaibzafar89" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibzafar89&langs_count=10&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+   <a href="https://github.com/sohaibzafar89">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibzafar89&langs_count=10&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+    </a>
+</div>
